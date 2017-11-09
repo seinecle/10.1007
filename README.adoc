@@ -1,0 +1,17 @@
+= The Development of Sociobiology in Relation to Animal Behavior Studies, 1946–1975
+Clément Levallois <levallois@em-lyon.com>
+2017-11-09
+:revnumber: 1.0
+:example-caption!:
+ifndef::imagesdir[:imagesdir: images]
+ifndef::sourcedir[:sourcedir: ../../main/java]
+
+This paper is published in the Journal of the History of Biology in 2018.
+
+-> Link to the journal version (paywalled, need $$$): https://link.springer.com/article/10.1007%2Fs10739-017-9491-x
+
+You can find in this repo the material for the website presenting the free version of the paper, which is th pre-proofread version, in html and pdf versions.
+
+Accesssing the website directly: https://seinecle.github.io/sociobiology
+
+by http://clementlevallois.net[Clément Levallois], Associate Professor at http://www.emlyon.com[emlyon business school].
