@@ -6,12 +6,17 @@ Clément Levallois <levallois@em-lyon.com>
 ifndef::imagesdir[:imagesdir: images]
 ifndef::sourcedir[:sourcedir: ../../main/java]
 
+In this repo, You can find the source material for the website presenting the free version of the paper, which is th pre-proofread version, in html and pdf versions.
+
+To access the website directly: https://seinecle.github.io/10.1007/s10739-017-9491-x/
+
+Note: the last part of the url (10.1007/s10739-017-9491-x/) corresponds to the http://www.doi.org/[doi] of the paper, where:
+
+- *10.1007* is the unique identifier of the journal where the paper is published
+- *s10739-017-9491-x* is the unique identifier of the paper itself, within the journal
+
 This paper is published in the Journal of the History of Biology in 2018.
 
 -> Link to the journal version (paywalled, need $$$): https://link.springer.com/article/10.1007%2Fs10739-017-9491-x
-
-You can find in this repo the material for the website presenting the free version of the paper, which is th pre-proofread version, in html and pdf versions.
-
-Accesssing the website directly: https://seinecle.github.io/sociobiology
 
 by http://clementlevallois.net[Clément Levallois], Associate Professor at http://www.emlyon.com[emlyon business school].
